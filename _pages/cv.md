@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineer, Islamic University of Indonesia, 2023
+* B.E. in Electrical Engineer, Islamic University of Indonesia, 2023
 
 Work experience
 ======
