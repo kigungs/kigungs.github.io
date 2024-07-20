@@ -1,6 +1,6 @@
 ---
 title: "Electrical Drafter"
-excerpt: "Design electrical layout for the Mulia Putri Construction Inc."
+excerpt: "Design electrical layout for construction building at Mulia Putri Lestari Inc."
 collection: portfolio
 ---
 
