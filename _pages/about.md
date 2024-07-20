@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
- # welcome
 
+ 
 <span id="welcome">
 </span>
 
