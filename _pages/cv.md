@@ -18,14 +18,17 @@ Work experience
 ======
 * August - May 2024: Electrical Drafter
   * Mulia Putri Lestari Inc.
+  * Location : Cirebon, West Java
   * Duties includes: Electrical Layout & Design
-
+  
 * August - September 2022: Students Internship
   * Kilang Pertamina International Inc.
+  * Location : Indramayu, West Java
   * Duties included: Analyze Refinery Control System
-
+  
 * October - December 2017: Students Internship
   * Fath Technologi Solutions Inc.
+  * Location : Cirebon, West Java
   * Duties included: CBT Infrastructure, CCTV Installation
   
 Skills
