@@ -8,7 +8,5 @@ redirect_from:
 ---
 
  
-<span id="welcome">
-</span>
-
+<span id="welcome"></span>
 <script src="/assets/js/random_welcome.js"></script>
