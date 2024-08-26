@@ -122,7 +122,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:s
+facebook:
   username               :
   app_id                 :
   publisher              :
