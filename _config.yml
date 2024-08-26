@@ -108,7 +108,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -122,7 +122,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+facebook:s
   username               :
   app_id                 :
   publisher              :
@@ -139,7 +139,7 @@ social:
 analytics:
   provider               :  "custom" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :  G-KV0245CJ52
+    tracking_id          :  "G-KV0245CJ52"
 
 
 # Reading Files
